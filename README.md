@@ -1,1 +1,42 @@
-# Syllabus
+- [ ] Hacker Tools, Techniques, and Incident Handling 
+- [ ] Security Essentials - Network, Endpoint, and Cloud 
+- [ ] Advanced Incident Response, Threat Hunting, and Digital Forensics 
+- [ ] Foundations: Computers, Technology, & Security 
+- [ ] Enterprise Penetration Testing 
+- [ ] Cyber Threat Intelligence 
+- [ ] Introduction to Cyber Security 
+- [ ] Security Leadership Essentials for Managers 
+- [ ] Security Leadership Essentials for Managers 
+- [ ] Cloud Security Essentials 
+- [ ] Windows Forensic Analysis 
+- [ ] ICS/SCADA Security Essentials 
+- [ ] Enterprise Cloud Forensics and Incident Response 
+- [ ] Security Strategic Planning, Policy, and Leadership 
+- [ ] Defensible Security Architecture and Engineering: Implementing Zero Trust for the Hybrid Enterprise 
+- [ ] Reverse-Engineering Malware: Malware Analysis Tools and Techniques 
+- [ ] Network Monitoring and Threat Detection In-Depth 
+- [ ] Web App Penetration Testing and Ethical Hacking 
+- [ ] Cloud Security and DevSecOps Automation 
+- [ ] Cloud Penetration Testing 
+- [ ] Practical Open-Source Intelligence (OSINT) 
+- [ ] Advanced Penetration Testing, Exploit Writing, and Ethical Hacking 
+- [ ] SANS Training Program for the CISSP Certification 
+- [ ] SANS Training Program for the CISSP Certification 
+- [ ] Public Cloud Security: AWS, Azure, and GCP 
+- [ ] ICS Visibility, Detection, and Response 
+- [ ] Blue Team Fundamentals: Security Operations and Analysis 
+- [ ] Automating Information Security with Python 
+- [ ] Implementing and Auditing Security Frameworks and Controls 
+- [ ] Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses 
+- [ ] Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response 
+- [ ] Building and Leading Security Operations Centers 
+- [ ] Building and Leading Security Operations Centers 
+- [ ] Continuous Monitoring and Security Operations 
+- [ ] SIEM with Tactical Analytics 
+- [ ] Cloud Security Attacker Techniques, Monitoring, and Threat Detection 
+- [ ] Application Security: Securing Web Apps, APIs, and Microservices 
+- [ ] Smartphone Forensic Analysis In-Depth  
+- [ ] Applied Data Science and Machine Learning for Cybersecurity Professionals 
+- [ ] Managing Human Risk 
+- [ ] Advanced Security Essentials - Enterprise Defender 
+- [ ] Enterprise and Cloud | Threat and Vulnerability Assessment 
